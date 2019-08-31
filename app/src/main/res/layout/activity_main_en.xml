@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/advertiser_fragment_container_en"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/greeting_en"
+    tools:context="com.amiccom.adv.MainActivity" >
+
+    <TextView
+        android:id="@+id/version_text"
+        android:layout_width="wrap_content"
+        android:layout_height="29dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"
+        android:text="@string/app_version"
+        android:textColor="#FFFFFF"
+        android:textSize="4pt" />
+
+</RelativeLayout>

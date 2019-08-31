@@ -1,0 +1,2 @@
+Version V0.1.5
+1. Use scan command way to support preniew version.

@@ -1,0 +1,8 @@
+.gradle
+.idea
+.hgignore
+.gitignore
+app/build/generated
+app/build/intermediates
+app/build/tmp
+app/libs
